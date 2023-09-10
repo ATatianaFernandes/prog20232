@@ -1,0 +1,186 @@
+Aula 1
+
+1- Como a evolução da tecnologia influenciou a organização e os componentes de sistemas computacionais ao longo do tempo?
+a) Aumentando a complexidade e a capacidade de processamento.
+b) Diminuindo a dependência de software.
+c) Não teve influência significativa.
+d) Simplificando a arquitetura de sistemas.
+
+
+2- Qual é a importância de um algoritmo eficiente na resolução de problemas computacionais e como a escolha do algoritmo certo pode impactar o desempenho de uma aplicação ou sistema?
+a) Algoritmos eficientes são irrelevantes para o desempenho de uma aplicação ou sistema.
+b) Algoritmos eficientes podem acelerar a resolução de problemas, economizar recursos e melhorar o desempenho.
+c) A escolha do algoritmo não afeta o desempenho de uma aplicação ou sistema.
+d) Algoritmos eficientes são úteis apenas em problemas teóricos, não na prática.
+
+
+Como a escolha da linguagem de programação pode influenciar o desenvolvimento de um software?
+a) A escolha da linguagem de programação não tem impacto no desenvolvimento de software.
+b) A linguagem de programação apenas afeta a aparência visual do software.
+c) A escolha da linguagem de programação pode influenciar a eficiência, a facilidade de manutenção e a compatibilidade do software.
+d) Todas as linguagens de programação são igualmente adequadas para qualquer tipo de software.
+
+
+Em programação, os algoritmos frequentemente envolvem sequências de instruções, estruturas de decisão e loops de repetição. Como esses três elementos são usados em conjunto para resolver problemas complexos?
+a) Os três elementos não são usados juntos em programação.
+b) São usados de forma independente e não têm relação entre si.
+c) Eles são combinados para criar lógica de controle, permitindo a execução de tarefas específicas com base em condições e repetições.
+d) Apenas sequências de instruções são necessárias para resolver problemas complexos.
+
+
+5- Como as linguagens de programação são aplicadas em campos específicos, como inteligência artificial, desenvolvimento web, automação industrial ou análise de dados?
+a) As linguagens de programação são usadas de forma idêntica em todos os campos, não há diferença.
+b) Cada campo utiliza uma única linguagem de programação exclusiva.
+c) As linguagens de programação são escolhidas com base em suas características e bibliotecas específicas para atender às necessidades e demandas de cada campo.
+d) Os campos mencionados não usam linguagens de programação em suas atividades.
+
+
+Aula 2
+
+1- Quais são algumas das ferramentas essenciais utilizadas no desenvolvimento de projetos de software, desde o planejamento até a implementação e manutenção? E como essas ferramentas contribuem para a eficiência, colaboração e qualidade do software desenvolvido?
+a) Ferramentas não desempenham um papel importante no desenvolvimento de software.
+b) Cada fase do desenvolvimento utiliza uma única ferramenta específica.
+c) Uma variedade de ferramentas, como IDEs, sistemas de controle de versão e sistemas de gerenciamento de tarefas, são usadas para melhorar a eficiência, colaboração e qualidade do software.
+d) Somente o planejamento e implementação são beneficiados por ferramentas, a manutenção não requer ferramentas específicas.
+
+
+2-Qual é a importância de criar um repositório para armazenamento de projetos e trabalhos colaborativos?
+a) A criação de um repositório é irrelevante para projetos colaborativos.
+b) Repositórios são usados apenas para armazenar documentos, não impactam a colaboração.
+c) Repositórios fornecem um local centralizado para armazenar, controlar versões e colaborar em projetos, melhorando a organização e o controle de mudanças.
+d) A importância dos repositórios está limitada a projetos individuais, não a projetos colaborativos.
+
+
+3- Qual é o impacto da utilização da ferramenta Git no desenvolvimento de projetos em neuroengenharia, considerando controle de versões, colaboração de equipe e rastreamento de mudanças em algoritmos e dados complexos?
+a) Git não é relevante para projetos em neuroengenharia.
+b) Git é útil apenas para controle de versões, não para colaboração de equipe ou rastreamento de mudanças.
+c) A utilização do Git proporciona controle de versões, facilita a colaboração em equipe e permite rastrear mudanças em algoritmos e dados complexos, o que é fundamental para projetos em neuroengenharia.
+d) Git é exclusivamente utilizado para colaboração de equipe e não afeta o controle de versões ou o rastreamento de mudanças em projetos de neuroengenharia.
+
+
+4- Quais são os principais componentes de um fluxo de trabalho eficaz no desenvolvimento de projetos em neuroengenharia, desde a aquisição e análise de dados cerebrais até a implementação de soluções práticas?
+a) Um fluxo de trabalho eficaz não é relevante para projetos em neuroengenharia.
+b) Cada componente do fluxo de trabalho opera de forma independente, sem interação.
+c) Os principais componentes incluem aquisição de dados cerebrais, análise de dados, desenvolvimento de algoritmos e implementação de soluções práticas, todos interconectados para alcançar os objetivos do projeto.
+d) O fluxo de trabalho se concentra apenas na implementação de soluções práticas e não considera aquisição ou análise de dados.
+
+Aula 3
+1- Forneça exemplos de situações em que uma linguagem de programação específica foi escolhida devido aos seus recursos e como isso beneficiou o desenvolvimento do projeto?
+a) A escolha da linguagem de programação nunca afeta o desenvolvimento de um projeto.
+b) Linguagens de programação são escolhidas apenas por preferência pessoal e não com base em recursos.
+c) A seleção de uma linguagem de programação com recursos específicos pode beneficiar o desenvolvimento do projeto, como escolher Python para tarefas de análise de dados devido à sua vasta biblioteca de análise.
+d) Linguagens de programação não têm impacto no desenvolvimento do projeto, desde que o programador seja habilidoso.
+
+
+2- Quais são os diferentes ambientes de programação disponíveis para Python e como a escolha de um ambiente específico pode afetar a produtividade e o desenvolvimento de projetos?
+a) Não existem ambientes de programação disponíveis para Python.
+b) A escolha de um ambiente de programação para Python é puramente estética e não afeta a produtividade ou o desenvolvimento de projetos
+c) Todos os ambientes de programação para Python são iguais em termos de produtividade e desenvolvimento de projetos."
+
+
+3- Ao programar em Python, como os comentários, variáveis, tipos de dados e operadores são utilizados de forma eficaz para melhorar a legibilidade do código e facilitar o entendimento dos algoritmos?
+a) Comentários, variáveis, tipos de dados e operadores não têm impacto na legibilidade do código Python.
+b) São utilizados de forma independente e não afetam a legibilidade do código.
+c) Comentários são usados para explicar o código, variáveis bem nomeadas melhoram a compreensão, tipos de dados apropriados são escolhidos e operadores são aplicados de maneira lógica para tornar o código mais legível.
+d) A legibilidade do código Python depende apenas da formatação do código, independentemente do uso de comentários, variáveis, tipos de dados ou operadores.
+
+
+4- Compartilhe um exemplo de como uma ferramenta de desenvolvimento facilitou a implementação de interações de entrada e saída em um programa ou projeto que você tenha trabalhado?
+a) Ferramentas de desenvolvimento não desempenham um papel importante na implementação de interações de entrada e saída em projetos.
+b) Implementar interações de entrada e saída é uma tarefa independente de ferramentas de desenvolvimento específicas.
+c) Uma ferramenta de desenvolvimento, como um ambiente de desenvolvimento integrado (IDE) com recursos de interface gráfica, simplificou a implementação de interações de entrada e saída, melhorando a eficiência e a qualidade do projeto.
+d) A implementação de interações de entrada e saída é a mesma, independentemente das ferramentas de desenvolvimento utilizadas.
+
+5- Como as ferramentas de depuração ajudam os programadores a encontrar e corrigir erros em seus códigos de forma mais eficaz?
+a) Ferramentas de depuração são irrelevantes para a correção de erros em códigos.
+b) Os programadores dependem exclusivamente da revisão manual para encontrar e corrigir erros.
+c) Ferramentas de depuração permitem que os programadores identifiquem e rastreiem erros no código, definindo pontos de interrupção e examinando variáveis durante a execução, tornando o processo de correção mais eficaz.
+d) As ferramentas de depuração são usadas apenas para encontrar erros de sintaxe, não para erros lógicos.
+
+
+AULA 4
+
+1- Em que situações e por que razões os programadores optam por utilizar estruturas de controle mais complexas, como estruturas condicionais e loops, em vez de seguir uma abordagem sequencial ao desenvolver algoritmos ou programas?
+a) Estruturas de controle complexas não são utilizadas em programação, apenas abordagens sequenciais são empregadas.
+b) Programadores não têm escolha, pois estruturas condicionais e loops são mais lentos do que abordagens sequenciais.
+c) Estruturas de controle complexas, como estruturas condicionais e loops, são usadas para criar lógica de decisão e repetição em algoritmos, permitindo que o programa responda dinamicamente às diferentes condições e intere sobre dados, o que torna os programas mais flexíveis e poderosos.
+d) Programadores utilizam estruturas de controle complexas apenas por preferência pessoal, sem benefícios técnicos.
+
+
+O que são estruturas de decisão em programação e como elas são usadas para controlar o fluxo de execução de um programa?
+a) Estruturas de decisão são termos técnicos sem significado prático em programação.
+b) Estruturas de decisão são usadas para controlar o fluxo de execução de um programa, permitindo que os programadores façam escolhas com base em condições específicas, como IF-ELSE em linguagens de programação.
+c) Estruturas de decisão são apenas usadas para adicionar complexidade desnecessária ao código e não têm impacto no fluxo de execução do programa.
+d) Estruturas de decisão são usadas exclusivamente para criar interfaces gráficas em programas.
+
+3- Como uma estrutura de decisão foi utilizada com sucesso em um contexto de neuroengenharia?
+a) Estruturas de decisão são irrelevantes em neuroengenharia.
+b) Estruturas de decisão não têm aplicação prática em projetos de neuroengenharia.
+c) Um exemplo de uso bem-sucedido de estruturas de decisão em neuroengenharia é quando são aplicadas para determinar, com base em dados cerebrais, a intensidade de estímulos elétricos a serem administrados a pacientes, permitindo tratamento personalizado.
+d) Estruturas de decisão são usadas apenas para coletar dados em projetos de neuroengenharia
+
+
+
+AULA 5
+
+1- Como são usados dados compostos, como tuplas, listas e dicionários, em linguagens de programação?
+a) Dados compostos não têm utilidade em linguagens de programação.
+b) Dados compostos são usados apenas para criar elementos gráficos em linguagens de programação.
+c) Dados compostos, como tuplas, listas e dicionários, são utilizados para armazenar e organizar coleções de informações de maneira estruturada, facilitando a manipulação e o acesso aos dados.
+d) Dados compostos são usados exclusivamente em linguagens de programação para fins de teste e depuração.
+
+
+2- Em quais situações o uso de uma tupla, lista ou dicionário é vantajoso?
+a) O uso de tuplas, listas ou dicionários não traz vantagens em programação.
+b) Essas estruturas de dados são úteis apenas quando se trabalha com dados simples, como números inteiros.
+c) É vantajoso utilizar tuplas, listas ou dicionários quando se deseja armazenar, organizar e manipular coleções de dados de diferentes tipos ou quando se precisa de acesso rápido aos elementos.
+d) Tuplas, listas e dicionários são exclusivamente usados para fins de documentação em programação.
+
+AULA 6
+
+1- O que são estruturas de repetição em programação e como elas são utilizadas para controlar a repetição de um bloco de código?
+a) Estruturas de repetição não têm utilidade em programação.
+b) Estruturas de repetição são usadas apenas para criar sequências de números repetidos. c) Estruturas de repetição são usadas para executar um bloco de código várias vezes com base em uma condição específica, como um loop 'for' ou 'while', melhorando a eficiência e evitando repetição de código.
+d) Estruturas de repetição são usadas exclusivamente para criar interfaces gráficas em programas.
+
+
+2- Como você usaria uma lista (ou outro tipo de dado composto) dentro de um loop em um programa Python para realizar uma tarefa repetitiva, como processar elementos de uma lista?
+a) Listas não podem ser usadas dentro de loops em Python.
+b) Uma lista seria usada dentro de um loop apenas para armazenar dados, não para processá-los.
+c) Uma lista seria usada dentro de um loop para iterar sobre seus elementos, permitindo que o programa processe cada elemento individualmente e execute a tarefa repetitiva.
+d) Listas são usadas exclusivamente fora de loops para evitar erros de programação.
+
+
+3- Como estruturas de repetição foram utilizadas com sucesso em um contexto de neuroengenharia?
+a) Estruturas de repetição não têm aplicação prática em projetos de neuroengenharia.
+b) Estruturas de repetição são usadas ocasionalmente, mas não desempenham um papel importante em projetos de neuroengenharia.
+c) Estruturas de repetição são utilizadas com sucesso em neuroengenharia para iterar sobre dados cerebrais em várias análises, permitindo uma compreensão mais abrangente e detalhada dos padrões cerebrais.
+d) Estruturas de repetição são usadas exclusivamente para coletar dados em projetos de neuroengenharia.
+
+
+AULA 7
+
+1- Como elementos como nome da função, parâmetros, corpo da função e valor de retorno são organizados para definir uma função?
+a) Esses elementos não são relevantes na definição de funções em programação.
+b) A organização desses elementos é feita aleatoriamente, sem padrão específico.
+c) Na definição de uma função, o nome da função é seguido pelos parâmetros entre parênteses, o corpo da função é definido com um bloco de código recuado e o valor de retorno é especificado com a palavra-chave 'return'.
+d) A organização desses elementos varia de acordo com a preferência pessoal do programador, sem regras específicas."
+
+2- Quais são os benefícios de reescrever programas em linguagens de programação na forma de funções?
+a) Não há benefícios em reescrever programas na forma de funções.
+b) Reescrever programas na forma de funções é útil apenas em casos específicos e não oferece benefícios gerais.
+c) A reescrita de programas na forma de funções torna o código mais modular, facilita a reutilização, a manutenção e a compreensão, além de promover uma estrutura mais organizada.
+d) A reescrita de programas na forma de funções é apenas uma opção estilística e não afeta a qualidade do código."
+
+3- O que é uma classe em programação e como ela pode ser aplicada para organizar dados e funcionalidades relacionados em um programa?
+a) Classes são conceitos teóricos que não têm aplicação prática em programação
+ b) Classes são usadas apenas para armazenar dados, não têm funcionalidades relacionadas em um programa.
+c) Uma classe em programação é uma estrutura que permite organizar dados e funcionalidades relacionados em um programa, criando um modelo para objetos. Ela pode conter atributos (dados) e métodos (funcionalidades) que descrevem o comportamento dos objetos.
+d) Classes são utilizadas exclusivamente para criar interfaces gráficas em programas.
+
+
+4- Quais são algumas das estruturas comuns da linguagem de programação que usam classes e explique brevemente como essas estruturas são aplicadas em programação orientada a objetos?
+a) Não existem estruturas comuns na linguagem de programação que usem classes.
+b) Estruturas que usam classes são irrelevantes em programação orientada a objetos.
+c) Estruturas comuns, como herança, encapsulamento e polimorfismo, são usadas em programação orientada a objetos para definir e organizar classes, permitindo a criação de hierarquias de classes, controle de acesso a atributos e métodos, e capacidade de objetos de assumirem diferentes formas.
+d) Estruturas que usam classes só são aplicadas em programação orientada a objetos para criar interfaces gráficas.
