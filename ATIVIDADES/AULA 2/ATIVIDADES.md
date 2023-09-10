@@ -21,6 +21,6 @@ d) Git é exclusivamente utilizado para colaboração de equipe e não afeta o c
 
 4- Quais são os principais componentes de um fluxo de trabalho eficaz no desenvolvimento de projetos em neuroengenharia, desde a aquisição e análise de dados cerebrais até a implementação de soluções práticas?
 a) Um fluxo de trabalho eficaz não é relevante para projetos em neuroengenharia.
-b) Cada componente do fluxo de trabalho opera de forma independente, sem interação.
+b) Cada componente do fluxo de trabalho opera de forma independente, sem interação..
 c) Os principais componentes incluem aquisição de dados cerebrais, análise de dados, desenvolvimento de algoritmos e implementação de soluções práticas, todos interconectados para alcançar os objetivos do projeto.
 d) O fluxo de trabalho se concentra apenas na implementação de soluções práticas e não considera aquisição ou análise de dados.
