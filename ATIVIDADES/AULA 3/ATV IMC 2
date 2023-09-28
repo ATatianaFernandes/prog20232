@@ -1,6 +1,6 @@
-peso = float(input("digite o seu peso (kg): "))
-altura = float(input("digite a sua altura em  (m): "))
-imc = peso/(altura**2)
+peso = float(input("digite o seu peso (70): "))
+altura = float(input("digite a sua altura em  (1.70): "))
+imc = 70/(170**2)
 print("seu IMC É", imc)
 
 # calculo de forma sequenciada
